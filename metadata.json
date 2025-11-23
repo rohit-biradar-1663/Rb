@@ -1,0 +1,7 @@
+{
+  "name": "ZippKar",
+  "description": "ZippKar is India’s on-demand emergency two-wheeler roadside assistance platform. It connects riders with nearby mechanics for quick help, online payments, and live tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
